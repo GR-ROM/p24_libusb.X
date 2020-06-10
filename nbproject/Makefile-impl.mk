@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=p24_libusb
+PROJECTNAME=p24_libusb.X
 
 # Active Configuration
 DEFAULTCONF=default

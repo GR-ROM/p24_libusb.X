@@ -39,3 +39,4 @@ dist/default/production/p24_libusb.production.hex
 dist/default/production/p24_libusb.production.map
 *.o
 *.d
+dist/
